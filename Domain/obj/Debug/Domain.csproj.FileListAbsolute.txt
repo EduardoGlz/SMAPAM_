@@ -1,0 +1,14 @@
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\Domain.dll
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\Domain.pdb
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\Common.dll
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\DataAccess.dll
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\MySql.Data.dll
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\MySql.Data.EntityFramework.dll
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\Google.Protobuf.dll
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\Common.pdb
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\DataAccess.pdb
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\MySql.Data.xml
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\bin\Debug\MySql.Data.EntityFramework.xml
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\obj\Debug\Domain.dll
+c:\Users\Marsh\OneDrive\documentos\visual studio 2015\Projects\SMAPAM_\Domain\obj\Debug\Domain.pdb
